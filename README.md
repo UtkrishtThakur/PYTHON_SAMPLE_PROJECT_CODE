@@ -1,7 +1,7 @@
-✨ VirtueFit – AI-Powered Virtual Fitting & Clothing Suggestions
+✨ VirtuFit – AI-Powered Virtual Fitting & Clothing Suggestions
 🚀 Overview
 
-VirtueFit is a prototype that uses AI-driven body measurement estimation to recommend clothing that fits your body type.
+VirtuFit is a prototype that uses AI-driven body measurement estimation to recommend clothing that fits your body type.
 
 The idea: instead of guessing your size or physically trying on clothes, VirtueFit estimates measurements from just an image and suggests what will look and fit best. It’s fast, hygienic, and made for the future of smart retail.
 
